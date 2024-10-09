@@ -176,7 +176,7 @@ function delegarArma(classeHeroi){
         case `monge`:
                 return "artes marciais"
         case `ninja`:
-            return "shuriken"
+                return "shuriken"
     }
 
 
